@@ -21,6 +21,9 @@ To start using the **m.bat** script, you need to clone or download the repositor
 
 1. Visit the [GitHub repository](https://github.com/planbcode12/muconds).
 2. Click on the **Code** button and select **Download ZIP** or clone the repository using Git.
+ ```bash
+       git clone https://github.com/planbcode12/muconds.git
+       ```
 
 Alternatively, if you only need the **m.bat** file, you can download it directly by using the following link:
 - [Download m.bat](https://github.com/planbcode12/muconds/blob/main/m.bat)
