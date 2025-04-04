@@ -20,7 +20,8 @@ The **em.bat** script automates several tasks and includes a wide range of popul
 To start using the **m.bat** script, you need to clone or download the repository from GitHub:
 
 1. Visit the [GitHub repository](https://github.com/planbcode12/muconds).
-2. Clone the repository using Git.
+2. Download Git, [here](https://git-scm.com/downloads/win)
+3. Clone the repository using Git.
  ```bash
 git clone https://github.com/planbcode12/muconds.git
 cd muconds
