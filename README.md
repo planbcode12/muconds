@@ -33,51 +33,58 @@ cd muconds
 
 The **m.bat** script includes the installation of the following applications:
 
-1. **Google Chrome**
-2. **Mozilla Firefox**
-3. **VLC Media Player**
-4. **7-Zip**
-5. **Notepad++**
-6. **Spotify**
-7. **Discord**
-8. **Steam**
-9. **Visual Studio Code**
-10. **Python**
-11. **Java Runtime Environment (JRE)**
-12. **Git**
-13. **Node.js**
-14. **Docker Desktop**
-15. **Adobe Acrobat Reader**
-16. **GIMP**
-17. **Blender**
-18. **LibreOffice**
-19. **OBS Studio**
-20. **Zoom**
-21. **Skype**
-22. **WhatsApp**
-23. **TeamSpeak**
-24. **Epic Games Launcher**
-25. **Minecraft Launcher**
-26. **VLC (Beta Version)**
-27. **Slack**
-28. **Notepad2**
-29. **WinRAR**
-30. **VirtualBox**
-31. **Krita**
-32. **Postman**
-33. **MySQL Workbench**
-34. **Trello**
-35. **FileZilla**
-36. **Apache**
-37. **Nginx**
-38. **Wireshark**
-39. **Eclipse**
-40. **Docker**
-41. **Vagrant**
-42. **VMware**
-43. **Jenkins**
-44. **Anaconda**
-
+1. Google Chrome
+2. Mozilla Firefox
+3. Brave Browser
+4. Microsoft Edge
+5. Opera
+6. VLC Media Player
+7. Spotify
+8. Discord
+9. Telegram
+10. WhatsApp Desktop
+11. 7-Zip
+12. WinRAR
+13. Notepad++
+14. Visual Studio Code
+15. Sublime Text
+16. OBS Studio
+17. ShareX
+18. Audacity
+19. GIMP
+20. Paint.NET
+21. Inkscape
+22. Krita
+23. Blender
+24. Unity Hub
+25. Unreal Engine
+26. Python
+27. Node.js
+28. Git
+29. GitHub Desktop
+30. Docker Desktop
+31. Postman
+32. FileZilla
+33. TeamViewer
+34. AnyDesk
+35. Zoom
+36. Skype
+37. LibreOffice
+38. WPS Office
+39. Adobe Acrobat Reader
+40. Steam
+41. Epic Games Launcher
+42. Battle.net
+43. Riot Client
+44. GeForce Experience
+46. CPU-Z
+47. Opera GX
+48. Brave Beta
+49. AutoCAD LT
+50. Microsoft Project
+51. Notepad++
+52. Adobe Photoshop
+    
 These applications are available for installation directly through the script. You can choose which application you want to install, and the script will take care of the rest!
 
 ---
