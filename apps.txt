@@ -1,0 +1,53 @@
+1|Google Chrome|Google.Chrome
+2|Mozilla Firefox|Mozilla.Firefox
+3|Brave Browser|Brave.Brave
+4|Microsoft Edge|Microsoft.Edge
+5|Opera|Opera.Opera
+6|VLC Media Player|VideoLAN.VLC
+7|Spotify|Spotify.Spotify
+8|Discord|Discord.Discord
+9|Telegram|Telegram.TelegramDesktop
+10|WhatsApp Desktop|WhatsApp.WhatsApp
+11|7-Zip|7zip.7zip
+12|WinRAR|RARLab.WinRAR
+13|Notepad++|Notepad++.Notepad++
+14|Visual Studio Code|Microsoft.VisualStudioCode
+15|Sublime Text|SublimeHQ.SublimeText
+16|OBS Studio|OBSProject.OBSStudio
+17|ShareX|ShareX.ShareX
+18|Audacity|Audacity.Audacity
+19|GIMP|GIMP.GIMP
+20|Paint.NET|dotPDNLLC.paintdotnet
+21|Inkscape|Inkscape.Inkscape
+22|Krita|KDE.Krita
+23|Blender|BlenderFoundation.Blender
+24|Unity Hub|UnityTechnologies.UnityHub
+25|Unreal Engine|EpicGames.UnrealEngine
+26|Python|Python.Python.3
+27|Node.js|OpenJS.NodeJS
+28|Git|Git.Git
+29|GitHub Desktop|GitHub.GitHubDesktop
+30|Docker Desktop|Docker.DockerDesktop
+31|Postman|Postman.Postman
+32|FileZilla|FileZilla.FileZilla
+33|TeamViewer|TeamViewer.TeamViewer
+34|AnyDesk|AnyDeskSoftwareGmbH.AnyDesk
+35|Zoom|Zoom.Zoom
+36|Skype|Microsoft.Skype
+37|LibreOffice|TheDocumentFoundation.LibreOffice
+38|WPS Office|Kingsoft.WPSOffice
+39|Adobe Acrobat Reader|Adobe.Acrobat.Reader.64-bit
+40|Steam|Valve.Steam
+41|Epic Games Launcher|EpicGames.EpicGamesLauncher
+42|Battle.net|Blizzard.BattleNet
+43|Riot Client|RiotGames.RiotClient
+44|GeForce Experience|NVIDIA.GeForceExperience
+46|CPU-Z|CPUID.CPU-Z
+47|Opera GX|Opera.OperaGX
+48|Brave Beta|Brave.BraveBeta
+49|AutoCAD LT|Autodesk.AutoCADLT
+50|Microsoft Project|Microsoft.Office.Project
+51|Notepad++|Notepad++.Notepad++
+52|Adobe Photoshop|Adobe.Photoshop
+
+
