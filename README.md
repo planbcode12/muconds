@@ -1,5 +1,4 @@
 # Muconds
-Certainly! Here's the updated description with a list of the applications included in the **m.bat** script:
 
 ---
 
