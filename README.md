@@ -1,121 +1,170 @@
-# Muconds
-INSTALL APPS NOW
----
+# 🚀 Muconds - Modern Windows Command Suite
 
-### **GitHub Repository: Muconds**
+**INSTALL APPS NOW**
 
-Welcome to the **Muconds** repository! This repository contains the **m.bat** script, which can be run on any Windows computer to help quickly download familiar and useful applications! The script can be downloaded and run from multiple machines, making it easy to run commands without having to set everything up yourself.
+A powerful batch script to automate app installations and system management on Windows.
 
----
-
-### **Overview**
-
-The **em.bat** script automates several tasks and includes a wide range of popular applications. Users can download the **m.bat** file and execute it to install, update, or configure various applications on their system.
+![Muconds Banner](https://img.shields.io/badge/Muconds-Batch--Powered-blueviolet)
+![License](https://img.shields.io/github/license/planbcode12/muconds)
+![Windows](https://img.shields.io/badge/platform-Windows-blue)
 
 ---
 
-#### **Step 1: Clone or Download the Repository**
+## 📖 Overview
 
-To start using the **m.bat** script, you need to clone or download the repository from GitHub:
+The `muconds.bat` script automates:
 
-1. Visit the [GitHub repository](https://github.com/planbcode12/muconds).
-2. Download Git, [here](https://git-scm.com/downloads/win)
-3. Clone the repository using Git.
- ```bash
+✅ One-click app installations via Winget  
+✅ System maintenance (disk cleanup, diagnostics)  
+✅ Network utilities (ping, DNS, IP config)  
+✅ File operations (search, disk analysis)
+
+---
+
+## 🛠️ Quick Start
+
+### Step 1: Clone or Download
+
+```powershell
 git clone https://github.com/planbcode12/muconds.git
 cd muconds
-.\m.bat
- ```
+.\muconds.bat
+```
+
+or  
+Download ZIP → Extract → Run `muconds.bat`
+
+### Step 2: Run as Administrator
+
+Right-click → **"Run as Administrator"** for full functionality.
 
 ---
 
-### **Applications Included**
+## 📦 Featured Applications
 
-The **m.bat** script includes the installation of the following applications:
+| Category      | Apps Included                                       |
+|---------------|------------------------------------------------------|
+| Browsers      | Chrome, Firefox, Edge, Brave, Opera GX              |
+| Media         | VLC, Spotify, OBS Studio, Audacity                  |
+| Dev Tools     | VS Code, Git, Python, Node.js, Docker               |
+| Gaming        | Steam, Epic Games, GeForce Experience               |
+| Utilities     | 7-Zip, Notepad++, ShareX, CPU-Z                     |
+| Productivity  | LibreOffice, Adobe Reader, AutoCAD LT               |
 
-1. Google Chrome
-2. Mozilla Firefox
-3. Brave Browser
-4. Microsoft Edge
-5. Opera
-6. VLC Media Player
-7. Spotify
-8. Discord
-9. Telegram
-10. WhatsApp Desktop
-11. 7-Zip
-12. WinRAR
-13. Notepad++
-14. Visual Studio Code
-15. Sublime Text
-16. OBS Studio
-17. ShareX
-18. Audacity
-19. GIMP
-20. Paint.NET
-21. Inkscape
-22. Krita
-23. Blender
-24. Unity Hub
-25. Unreal Engine
-26. Python
-27. Node.js
-28. Git
-29. GitHub Desktop
-30. Docker Desktop
-31. Postman
-32. FileZilla
-33. TeamViewer
-34. AnyDesk
-35. Zoom
-36. Skype
-37. LibreOffice
-38. WPS Office
-39. Adobe Acrobat Reader
-40. Steam
-41. Epic Games Launcher
-42. Battle.net
-43. Riot Client
-44. GeForce Experience
-46. CPU-Z
-47. Opera GX
-48. Brave Beta
-49. AutoCAD LT
-50. Microsoft Project
-51. Notepad++
-52. Adobe Photoshop
-    
-These applications are available for installation directly through the script. You can choose which application you want to install, and the script will take care of the rest!
+*(Full list below)*
 
 ---
 
-### **Additional Information**
+## 🖥️ Interface Preview
 
-#### **What is m.bat?**
-The **m.bat** file contains a series of automated instructions that can execute various tasks on your PC. The script is designed to simplify complex processes and can be customized to suit your specific needs.
+```
+  ███╗   ███╗██╗   ██╗ ██████╗ ██████╗ ███╗   ██╗██████╗ ███████╗
+  ████╗ ████║██║   ██║██╔════╝██╔═══██╗████╗  ██║██╔══██╗██╔════╝
+  ██╔████╔██║██║   ██║██║     ██║   ██║██╔██╗ ██║██║  ██║███████╗
+  ██║╚██╔╝██║██║   ██║██║     ██║   ██║██║╚██╗██║██║  ██║╚════██║
+  ██║ ╚═╝ ██║╚██████╔╝╚██████╗╚██████╔╝██║ ╚████║██████╔╝███████║
+  ╚═╝     ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚════╝╚══════╝
 
-#### **How to Contribute**
-If you'd like to contribute to the development of this script, feel free to fork the repository, make changes, and submit a pull request. Contributions are always welcome!
-
-#### **License**
-This repository is licensed under the MIT License. See the [LICENSE](https://github.com/planbcode12/muconds/blob/main/LICENSE) file for more details.
-
----
-
-### **Troubleshooting**
-
-- **Issue**: "The file cannot be downloaded."
-  - **Solution**: Ensure that you have an active internet connection and that the link to the file is correct.
-
-- **Issue**: "The script is not working."
-  - **Solution**: Ensure you're using a Windows PC with the necessary permissions to execute batch files.
+  [1] Application Installer       [4] System Information
+  [2] Network Utilities          [5] File Operations
+  [3] System Maintenance         [6] Advanced Tools
+  [0] Exit
+```
 
 ---
 
-### **Conclusion**
+## 🔍 Full Application List
 
-By following the steps above, you'll be able to easily download and execute the **m.bat** file from any Windows machine. The flexibility of the process allows users to automate tasks with ease from GitHub. Enjoy automating your system with **Muconds**!
+### 🌐 Browsers
+- Google Chrome  
+- Mozilla Firefox  
+- Microsoft Edge  
+- Brave Browser (and Beta)  
+- Opera / Opera GX  
+
+### 🎬 Media & Design
+- VLC Media Player  
+- OBS Studio  
+- GIMP  
+- Blender  
+- Audacity  
+- Krita  
+
+### 💻 Development
+- Visual Studio Code  
+- Git / GitHub Desktop  
+- Python  
+- Node.js  
+- Docker Desktop  
+- Postman  
+
+### 🎮 Gaming
+- Steam  
+- Epic Games Launcher  
+- GeForce Experience  
+- Riot Client  
+
+### 🛠️ Utilities
+- 7-Zip / WinRAR  
+- ShareX  
+- CPU-Z  
+- TeamViewer / AnyDesk  
+- Zoom / Skype  
+
+### 📚 Productivity
+- LibreOffice  
+- WPS Office  
+- Adobe Acrobat Reader  
+- Notepad++  
+- Paint.NET  
+
+> 📁 *60+ apps supported - see `apps.txt` for the complete list*
 
 ---
 
-This version now includes a list of all the applications included in the **m.bat** script, allowing users to understand what is available for installation and automation.
+## ❓ FAQ
+
+### ❓ What is `muconds.bat`?
+A Windows batch script that automates software installations and system tasks using Winget and native Windows commands.
+
+### ❓ How to add more apps?
+Edit the `apps.txt` file following this format:
+
+```
+1|App Name|Publisher.PackageID
+2|Another App|Vendor.ID
+```
+
+### ❓ Script not working?
+- Ensure Winget is installed (Windows 11 includes it by default)
+- Run as Administrator
+- Check your internet connection
+
+---
+
+## 🤝 Contributing
+
+1. Fork the repository  
+2. Create a new branch  
+   ```bash
+   git checkout -b feature/improvement
+   ```
+3. Commit your changes  
+   ```bash
+   git commit -m "Add new feature"
+   ```
+4. Push the branch  
+   ```bash
+   git push origin feature/improvement
+   ```
+5. Open a Pull Request
+
+---
+
+## 📜 License
+
+MIT License - See [`LICENSE`](LICENSE) for details.
+
+---
+
+## 🎉 Get Started Now!
