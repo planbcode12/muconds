@@ -27,7 +27,7 @@ The `muconds.bat` script automates:
 ```powershell
 git clone https://github.com/planbcode12/muconds.git
 cd muconds
-.\muconds.bat
+.\m.bat
 ```
 
 or  
