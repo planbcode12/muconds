@@ -4,7 +4,7 @@ INSTALL APPS NOW
 
 ### **GitHub Repository: Muconds**
 
-Welcome to the **Muconds** repository! This repository contains the **m.bat** script, which can be executed on any Windows PC to perform a series of automated tasks. The script can be downloaded and executed from any machine, making it easy to run commands without having to manually configure everything yourself.
+Welcome to the **Muconds** repository! This repository contains the **m.bat** script, which can be run on any Windows computer to help quickly download familiar and useful applications! The script can be downloaded and run from multiple machines, making it easy to run commands without having to set everything up yourself.
 
 ---
 
