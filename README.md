@@ -4,9 +4,8 @@
 
 A powerful batch script to automate app installations and system management on Windows.
 
-![Muconds Banner](https://img.shields.io/badge/Muconds-Batch--Powered-blueviolet)
-![License](https://img.shields.io/github/license/planbcode12/muconds)
-![Windows](https://img.shields.io/badge/platform-Windows-blue)
+![License]([https://img.shields.io/github/license/planbcode12/muconds](https://github.com/planbcode12/muconds/blob/main/LICENSE))
+![Windows]([https://img.shields.io/badge/platform-Windows-blue](https://www.microsoft.com/))
 
 ---
 
@@ -51,7 +50,7 @@ Right-click → **"Run as Administrator"** for full functionality.
 | Utilities     | 7-Zip, Notepad++, ShareX, CPU-Z                     |
 | Productivity  | LibreOffice, Adobe Reader, AutoCAD LT               |
 
-*(Full list below)*
+*And More*
 
 ---
 
