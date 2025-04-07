@@ -4,8 +4,8 @@
 
 A powerful batch script to automate app installations and system management on Windows.
 
-![License]([https://img.shields.io/github/license/planbcode12/muconds](https://github.com/planbcode12/muconds/blob/main/LICENSE))
-![Windows]([https://img.shields.io/badge/platform-Windows-blue](https://www.microsoft.com/))
+![License](https://github.com/planbcode12/muconds/blob/main/LICENSE)
+![Windows](https://www.microsoft.com/)
 
 ---
 
