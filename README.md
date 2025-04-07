@@ -11,7 +11,7 @@ A powerful batch script to automate app installations and system management on W
 
 ## 📖 Overview
 
-The `muconds.bat` script automates:
+The `m.bat` script automates:
 
 ✅ One-click app installations via Winget  
 ✅ System maintenance (disk cleanup, diagnostics)  
@@ -31,7 +31,7 @@ cd muconds
 ```
 
 or  
-Download ZIP → Extract → Run `muconds.bat`
+Download ZIP → Extract → Run `m.bat`
 
 ### Step 2: Run as Administrator
 
@@ -123,7 +123,7 @@ Right-click → **"Run as Administrator"** for full functionality.
 
 ## ❓ FAQ
 
-### ❓ What is `muconds.bat`?
+### ❓ What is `m.bat`?
 A Windows batch script that automates software installations and system tasks using Winget and native Windows commands.
 
 ### ❓ How to add more apps?
