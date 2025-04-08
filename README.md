@@ -131,12 +131,7 @@ Right-click → **"Run as Administrator"** for full functionality.
 A Windows batch script that automates software installations and system tasks using Winget and native Windows commands.
 
 ### ❓ How to add more apps?
-Edit the `apps.txt` file following this format:
-
-```
-1|App Name|Publisher.PackageID
-2|Another App|Vendor.ID
-```
+This is our job!
 
 ### ❓ Script not working?
 - Ensure Winget is installed (Windows 11 includes it by default)
