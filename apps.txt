@@ -49,5 +49,8 @@
 50|Microsoft Project|Microsoft.Office.Project
 51|Notepad++|Notepad++.Notepad++
 52|Adobe Photoshop|Adobe.Photoshop
+53|ChatGPT|OpenAI.ChatGPT
+54|RStudio|RStudio.RStudio
+55|JupyterLab|Jupyter.JupyterLab
 
 
