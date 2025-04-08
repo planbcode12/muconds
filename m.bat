@@ -26,7 +26,7 @@ echo %color_title%  ██║╚██╔╝██║██║   ██║██
 echo %color_title%  ██║ ╚═╝ ██║╚██████╔╝╚██████╗╚██████╔╝██║ ╚████║██████╔╝███████║
 echo %color_title%  ╚═╝     ╚═╝ ╚═════╝  ╚═════╝ ╚═════╝ ╚═╝  ╚════╝╚══════╝
 echo %color_title%  ================================================================
-echo %color_menu%  [1] Application Installer       [4] System Information
+echo %color_menu%  [1] Application Installer      [4] System Information
 echo %color_menu%  [2] Network Utilities          [5] File Operations
 echo %color_menu%  [3] System Maintenance         [6] Advanced Tools
 echo %color_menu%  [0] Exit Muconds
