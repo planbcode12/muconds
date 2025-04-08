@@ -27,7 +27,7 @@ First of all Download Git
 ```powershell
 winget install --id Git.Git -e --source winget
 ```
-
+And now you can download the MUCONDS
 ```powershell
 git clone https://github.com/planbcode12/muconds.git
 cd muconds
