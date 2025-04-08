@@ -68,7 +68,7 @@ Right-click → **"Run as Administrator"** for full functionality.
   ██║ ╚═╝ ██║╚██████╔╝╚██████╗╚██████╔╝██║ ╚████║██████╔╝███████║
   ╚═╝     ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚════╝╚══════╝
 
-  [1] Application Installer       [4] System Information
+  [1] Application Installer      [4] System Information
   [2] Network Utilities          [5] File Operations
   [3] System Maintenance         [6] Advanced Tools
   [0] Exit
