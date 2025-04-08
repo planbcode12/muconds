@@ -23,6 +23,10 @@ The `m.bat` script automates:
 ## 🛠️ Quick Start
 
 ### Step 1: Clone or Download
+First of all Download Git
+```powershell
+winget install --id Git.Git -e --source winget
+```
 
 ```powershell
 git clone https://github.com/planbcode12/muconds.git
