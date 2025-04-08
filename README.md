@@ -3,9 +3,8 @@
 **INSTALL APPS NOW**
 
 A powerful batch script to automate app installations and system management on Windows.
-<kbd> <br> [License][https://github.com/planbcode12/muconds/blob/main/LICENSE] <br> </kbd>
-<kbd> <br> [Windows][https://www.microsoft.com/] <br> </kbd>
-
+<kbd> <br> [License](https://github.com/planbcode12/muconds/blob/main/LICENSE) <br> </kbd>
+<kbd> <br> [Windows](https://www.microsoft.com/) <br> </kbd>
 ----
 
 ## 📖 Overview
