@@ -42,59 +42,37 @@
 42|Battle.net|Blizzard.BattleNet
 43|Riot Client|RiotGames.RiotClient
 44|GeForce Experience|NVIDIA.GeForceExperience
-46|CPU-Z|CPUID.CPU-Z
-47|Opera GX|Opera.OperaGX
-48|Brave Beta|Brave.BraveBeta
-49|AutoCAD LT|Autodesk.AutoCADLT
-50|Microsoft Project|Microsoft.Office.Project
-51|Notepad++|Notepad++.Notepad++
-52|Adobe Photoshop|Adobe.Photoshop
-53|ChatGPT|OpenAI.ChatGPT
-54|RStudio|RStudio.RStudio
-55|JupyterLab|Jupyter.JupyterLab
-56|Anaconda|Anaconda.Anaconda
-57|IntelliJ IDEA Community|JetBrains.IntelliJIDEA.Community
-58|Oracle JDK 17|Oracle.JDK.17
-59|PowerShell|Microsoft.PowerShell
-60|Neovim|Neovim.Neovim
-61|Vivaldi|VivaldiTechnologies.Vivaldi
-62|Tor Browser|TorProject.TorBrowser
-63|Microsoft Office|Microsoft.Office
-64|Obsidian|Obsidian.Obsidian
-65|Joplin|Joplin.Joplin
-66|Slack|Slack.Slack
-67|Microsoft Teams|Microsoft.Teams
-68|TickTick|TickTick.TickTick
-69|Toggl Desktop|Toggl.TogglDesktop
-70|HandBrake|HandBrake.HandBrake
-71|Daum PotPlayer|Daum.PotPlayer
-72|CCleaner|CCleaner.CCleaner
-73|Everything|Everything.Everything
-74|Greenshot|Greenshot.Greenshot
-75|PuTTY|PuTTY.PuTTY
-76|Wireshark|WiresharkFoundation.Wireshark
-77|balenaEtcher|Balena.Etcher
-78|Rufus|Rufus.Rufus
-79|Windows Terminal|Microsoft.WindowsTerminal
-80|Ubisoft Connect|Ubisoft.Connect
-81|EA Desktop|ElectronicArts.EADesktop
-82|League of Legends|RiotGames.LeagueOfLegends
-83|Minecraft Launcher|Minecraft.MinecraftLauncher
-84|Bitdefender|Bitdefender.Bitdefender
-85|Malwarebytes|Malwarebytes.Malwarebytes
-86|KeePassXC|KeePassXCTeam.KeePassXC
-87|Proton VPN|ProtonTechnologies.ProtonVPN
-88|VeraCrypt|Veracrypt.VeraCrypt
-89|Process Explorer|Microsoft.Sysinternals.ProcessExplorer
-90|Dropbox|Dropbox.Dropbox
-91|Google Drive|Google.Drive
-92|MEGA Sync|Mega.MEGASync
-93|Nextcloud|Nextcloud.NextcloudDesktop
-94|Synology Drive|Synology.CloudStationDrive
-95|WinSCP|WinSCP.WinSCP
-96|AutoHotkey|AutoHotkey.AutoHotkey
-97|Lightshot|Lightshot.Lightshot
-98|qBittorrent|qBittorrent.qBittorrent
+45|CPU-Z|CPUID.CPU-Z
+46|Opera GX|Opera.OperaGX
+47|Brave Beta|Brave.BraveBeta
+48|AutoCAD LT|Autodesk.AutoCADLT
+49|Microsoft Project|Microsoft.Office.Project
+50|Notepad++|Notepad++.Notepad++
+51|Adobe Photoshop|Adobe.Photoshop
+52|ChatGPT|OpenAI.ChatGPT
+53|RStudio|RStudio.RStudio
+54|IntelliJ IDEA Community|JetBrains.IntelliJIDEA.Community
+55|Oracle JDK 17|Oracle.JDK.17
+56|PowerShell|Microsoft.PowerShell
+57|Neovim|Neovim.Neovim
+58|Tor Browser|TorProject.TorBrowser
+59|Microsoft Office|Microsoft.Office
+60|Obsidian|Obsidian.Obsidian
+61|Joplin|Joplin.Joplin
+62|Microsoft Teams|Microsoft.Teams
+63|HandBrake|HandBrake.HandBrake
+64|Daum PotPlayer|Daum.PotPlayer
+65|Greenshot|Greenshot.Greenshot
+66|PuTTY|PuTTY.PuTTY
+67|Wireshark|WiresharkFoundation.Wireshark
+68|balenaEtcher|Balena.Etcher
+69|Rufus|Rufus.Rufus
+70|Windows Terminal|Microsoft.WindowsTerminal
+71|Ubisoft Connect|Ubisoft.Connect
+72|EA Desktop|ElectronicArts.EADesktop
+73|MinecraftLauncher|Mojang.MinecraftLauncher
+74|Dropbox|Dropbox.Dropbox
+75|GoogleDrive|Google.GoogleDrive
 
 
 
