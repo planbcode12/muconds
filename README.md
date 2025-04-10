@@ -35,7 +35,7 @@ cd muconds
 ```
 
 or  
-Download ZIP → Extract → Run `m.bat`
+Download em.bat
 
 ### Step 2: Run as Administrator
 
